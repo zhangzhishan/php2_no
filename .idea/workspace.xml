@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a75a6d87-b87e-41e8-b4b4-aad21f4dfc2d" name="Default" comment="" />
+    <ignored path="phphomework.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="phphomework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="addold.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/order/addold.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="46.214287">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <folding>
+                <element signature="e#4217#5084#0#HTML" expanded="false" />
+                <element signature="e#5109#5615#0#HTML" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/goods/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.285714">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/views/goods/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.571428">
+              <caret line="129" column="80" selection-start-line="129" selection-start-column="80" selection-end-line="129" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/views/order/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.428572">
+              <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/views/order/info.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.464286">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getList.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/views/order/getList.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7625">
+              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_goods.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/views/order/edit_goods.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/controllers/order.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.642857">
+              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding>
+                <element signature="n#add#0;n#controllers_order#0;n#!!top" expanded="false" />
+                <element signature="n#remove#0;n#controllers_order#0;n#!!top" expanded="false" />
+                <element signature="e#5121#5160#0#PHP" expanded="false" />
+                <element signature="n#getList#0;n#controllers_order#0;n#!!top" expanded="false" />
+                <element signature="e#5247#5551#0#PHP" expanded="false" />
+                <element signature="n#add_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+                <element signature="n#edit_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+                <element signature="n#remove_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+                <element signature="n#edit_base_info#0;n#controllers_order#0;n#!!top" expanded="false" />
+                <marker date="1439808279355" expanded="true" signature="1883:1977" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439808279355" expanded="true" signature="2090:2214" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439808279355" expanded="true" signature="3461:3681" placeholder="select o.*,s..taoyizhang_wbsd1415_resit_order_info..." />
+                <marker date="1439808279355" expanded="true" signature="3767:3822" placeholder="select id,na..taoyizhang_wbsd1415_resit_payments..." />
+                <marker date="1439808279355" expanded="true" signature="3902:3953" placeholder="select id,na..taoyizhang_wbsd1415_resit_ships..." />
+                <marker date="1439808279355" expanded="true" signature="4015:4162" placeholder="select * fro..taoyizhang_wbsd1415_resit_order_goods..." />
+                <marker date="1439808279355" expanded="true" signature="4362:4456" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439808279355" expanded="true" signature="4575:4699" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439808279355" expanded="true" signature="4930:5001" placeholder="delete from ..." />
+                <marker date="1439808279355" expanded="true" signature="7415:7486" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+                <marker date="1439808279355" expanded="true" signature="7649:7741" placeholder="select oi.* ..taoyizhang_wbsd1415_resit_order_info..." />
+                <marker date="1439808279355" expanded="true" signature="8078:8172" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439808279355" expanded="true" signature="8270:8394" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439808279355" expanded="true" signature="8868:8948" placeholder="select order..taoyizhang_wbsd1415_resit_order_info..." />
+                <marker date="1439808279355" expanded="true" signature="9451:9522" placeholder="select code ..taoyizhang_wbsd1415_resit_color..." />
+                <marker date="1439808279355" expanded="true" signature="9587:9656" placeholder="select code ..taoyizhang_wbsd1415_resit_size..." />
+                <marker date="1439808279355" expanded="true" signature="10912:11100" placeholder="update taoyi..." />
+                <marker date="1439808279355" expanded="true" signature="11205:11292" placeholder="select order..taoyizhang_wbsd1415_resit_order_goods..." />
+                <marker date="1439808279355" expanded="true" signature="11576:11741" placeholder="select og.*,..taoyizhang_wbsd1415_resit_order_goods..." />
+                <marker date="1439808279355" expanded="true" signature="11804:11941" placeholder="select s.id,..taoyizhang_wbsd1415_resit_goods_size..." />
+                <marker date="1439808279355" expanded="true" signature="12004:12145" placeholder="select c.id,..taoyizhang_wbsd1415_resit_goods_color..." />
+                <marker date="1439808279355" expanded="true" signature="12351:12426" placeholder="select order..taoyizhang_wbsd1415_resit_order_goods..." />
+                <marker date="1439808279355" expanded="true" signature="12442:12508" placeholder="delete from ..." />
+                <marker date="1439808279355" expanded="true" signature="12827:12935" placeholder="update taoyi..." />
+                <marker date="1439808279355" expanded="true" signature="13412:13665" placeholder="update taoyi..." />
+                <marker date="1439808279355" expanded="true" signature="13877:13964" placeholder="select count..taoyizhang_wbsd1415_resit_order_goods..." />
+                <marker date="1439808279355" expanded="true" signature="14410:14538" placeholder="update taoyi..." />
+                <marker date="1439808279355" expanded="true" signature="14594:14727" placeholder="update taoyi..." />
+                <marker date="1439808279355" expanded="true" signature="15471:15558" placeholder="select count..taoyizhang_wbsd1415_resit_order_goods..." />
+                <marker date="1439808279355" expanded="true" signature="20033:20114" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+                <marker date="1439808279355" expanded="true" signature="20280:20454" placeholder="select oi.*,..taoyizhang_wbsd1415_resit_order_info..." />
+                <marker date="1439808279355" expanded="true" signature="23240:23311" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+                <marker date="1439808279355" expanded="true" signature="23373:23469" placeholder="select oi.* ..taoyizhang_wbsd1415_resit_order_info..." />
+                <marker date="1439808279355" expanded="true" signature="23869:23968" placeholder="update taoyi..." />
+                <marker date="1439808279355" expanded="true" signature="24017:24383" placeholder="update taoyi..." />
+                <marker date="1439808279355" expanded="true" signature="24729:24803" placeholder="update order..." />
+                <marker date="1439808279355" expanded="true" signature="24848:25214" placeholder="update taoyi..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/order/info.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.7142856">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="38" />
+              <folding>
+                <element signature="e#4860#5651#0#HTML" expanded="false" />
+                <element signature="e#5681#5973#0#HTML" expanded="false" />
+                <element signature="e#6005#6290#0#HTML" expanded="false" />
+                <element signature="e#6322#6592#0#HTML" expanded="false" />
+                <element signature="e#6625#7085#0#HTML" expanded="false" />
+                <element signature="e#7117#7946#0#HTML" expanded="false" />
+                <element signature="e#7982#8608#0#HTML" expanded="false" />
+                <element signature="e#8647#9996#0#HTML" expanded="false" />
+                <element signature="e#10033#11036#0#HTML" expanded="false" />
+                <element signature="e#11083#11432#0#HTML" expanded="false" />
+                <element signature="e#11992#12346#0#HTML" expanded="false" />
+                <element signature="e#12384#12730#0#HTML" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goods.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/controllers/goods.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.821428">
+              <caret line="149" column="12" selection-start-line="149" selection-start-column="12" selection-end-line="149" selection-end-column="12" />
+              <folding>
+                <element signature="n#getList#0;n#controllers_goods#0;n#!!top" expanded="false" />
+                <element signature="n#add#0;n#controllers_goods#0;n#!!top" expanded="false" />
+                <element signature="n#edit#0;n#controllers_goods#0;n#!!top" expanded="false" />
+                <marker date="1439802792567" expanded="true" signature="1351:1416" placeholder="select count..taoyizhang_wbsd1415_resit_goods..." />
+                <marker date="1439802792567" expanded="true" signature="1480:1624" placeholder="select g.* ,..taoyizhang_wbsd1415_resit_goods..." />
+                <marker date="1439802792567" expanded="true" signature="1759:1853" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439802792567" expanded="true" signature="1942:2066" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439802792567" expanded="true" signature="2631:2725" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439802792567" expanded="true" signature="2814:2938" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439802792567" expanded="true" signature="3517:3677" placeholder="select gc.*,..taoyizhang_wbsd1415_resit_goods_color..." />
+                <marker date="1439802792567" expanded="true" signature="3737:3893" placeholder="select gs.*,..taoyizhang_wbsd1415_resit_goods_size..." />
+                <marker date="1439802792567" expanded="true" signature="3985:4079" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439802792567" expanded="true" signature="4168:4292" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+                <marker date="1439802792567" expanded="true" signature="6151:6232" placeholder="select count..taoyizhang_wbsd1415_resit_order_goods..." />
+                <marker date="1439802792567" expanded="true" signature="6639:6684" placeholder="select * fro..taoyizhang_wbsd1415_resit_color..." />
+                <marker date="1439802792567" expanded="true" signature="6988:7032" placeholder="select * fro..taoyizhang_wbsd1415_resit_size..." />
+                <marker date="1439802792567" expanded="true" signature="7552:7843" placeholder="select g.*,s..taoyizhang_wbsd1415_resit_goods..." />
+                <marker date="1439802792567" expanded="true" signature="8277:8568" placeholder="select g.*,s..taoyizhang_wbsd1415_resit_goods..." />
+                <marker date="1439802792567" expanded="true" signature="8919:8967" placeholder="select * fro..taoyizhang_wbsd1415_resit_category..." />
+                <marker date="1439802792567" expanded="true" signature="9033:9078" placeholder="select * fro..taoyizhang_wbsd1415_resit_brand..." />
+                <marker date="1439802792567" expanded="true" signature="9283:9448" placeholder="select c.nam..taoyizhang_wbsd1415_resit_goods_color..." />
+                <marker date="1439802792567" expanded="true" signature="9540:9699" placeholder="select s.id,..taoyizhang_wbsd1415_resit_goods_size..." />
+                <marker date="1439802792567" expanded="true" signature="9800:9862" placeholder="select * fro..taoyizhang_wbsd1415_resit_goods..." />
+                <marker date="1439802792567" expanded="true" signature="10781:10863" placeholder="update taoyi..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/layout/js/utils.js" />
+        <option value="$PROJECT_DIR$/views/goods/list.php" />
+        <option value="$PROJECT_DIR$/lib/functions.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/views/details/de.html" />
+        <option value="$PROJECT_DIR$/views/category/main.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/controllers/base.php" />
+        <option value="$PROJECT_DIR$/admin/layout/index.html" />
+        <option value="$PROJECT_DIR$/admin/layout/sign-in.html" />
+        <option value="$PROJECT_DIR$/admin/layout/faq.html" />
+        <option value="$PROJECT_DIR$/admin/views/order/edit_goods.php" />
+        <option value="$PROJECT_DIR$/layout/index.php" />
+        <option value="$PROJECT_DIR$/admin/layout/index.php" />
+        <option value="$PROJECT_DIR$/admin/controllers/shop.php" />
+        <option value="$PROJECT_DIR$/admin/views/common/menu.php" />
+        <option value="$PROJECT_DIR$/admin/controllers/base.php" />
+        <option value="$PROJECT_DIR$/admin/models/base.php" />
+        <option value="$PROJECT_DIR$/admin/models/user.php" />
+        <option value="$PROJECT_DIR$/admin/views/common/foot.php" />
+        <option value="$PROJECT_DIR$/admin/layout/css/swfupload/default.css" />
+        <option value="$PROJECT_DIR$/admin/views/goods/ttt.php" />
+        <option value="$PROJECT_DIR$/admin/controllers/stock.php" />
+        <option value="$PROJECT_DIR$/admin/boot/config.php" />
+        <option value="$PROJECT_DIR$/admin/views/users/edit.php" />
+        <option value="$PROJECT_DIR$/admin/views/users/getList.php" />
+        <option value="$PROJECT_DIR$/views/common/head.php" />
+        <option value="$PROJECT_DIR$/views/details/main.php" />
+        <option value="$PROJECT_DIR$/models/base.php" />
+        <option value="$PROJECT_DIR$/controllers/goods.php" />
+        <option value="$PROJECT_DIR$/controllers/category.php" />
+        <option value="$PROJECT_DIR$/controllers/details.php" />
+        <option value="$PROJECT_DIR$/boot/config.php" />
+        <option value="$PROJECT_DIR$/admin/views/privilege/index.php" />
+        <option value="$PROJECT_DIR$/admin/views/common/head.php" />
+        <option value="$PROJECT_DIR$/admin/controllers/privilege.php" />
+        <option value="$PROJECT_DIR$/admin/views/privilege/modif.php" />
+        <option value="$PROJECT_DIR$/admin/controllers/psend.php" />
+        <option value="$PROJECT_DIR$/admin/views/goods/list.php" />
+        <option value="$PROJECT_DIR$/admin/views/goods/edit.php" />
+        <option value="$PROJECT_DIR$/admin/controllers/goods.php" />
+        <option value="$PROJECT_DIR$/views/common/foot.php" />
+        <option value="$PROJECT_DIR$/views/order/info.php" />
+        <option value="$PROJECT_DIR$/controllers/order.php" />
+        <option value="$PROJECT_DIR$/views/order/addold.php" />
+        <option value="$PROJECT_DIR$/views/goods/index.php" />
+        <option value="$PROJECT_DIR$/admin/views/goods/add.php" />
+        <option value="$PROJECT_DIR$/admin/controllers/order.php" />
+        <option value="$PROJECT_DIR$/admin/views/order/add.php" />
+        <option value="$PROJECT_DIR$/admin/views/order/info.php" />
+        <option value="$PROJECT_DIR$/admin/views/order/getList.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="." />
+      <path value="D:\xampp\php\PEAR" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goods" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phphomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="fedde517-0e7b-483f-9089-b6e33fbe0f6d" server_name="phphomework">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a75a6d87-b87e-41e8-b4b4-aad21f4dfc2d" name="Default" comment="" />
+      <created>1439647619572</created>
+      <option name="number" value="Default" />
+      <updated>1439647619572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.392857">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/common/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0357144">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/lib/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/models/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.892858">
+          <caret line="173" column="46" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/models/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/layout/js/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/common/foot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.079166666">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/goods/ttt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0291667">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/layout/css/swfupload/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="31" column="109" selection-start-line="31" selection-start-column="109" selection-end-line="31" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.392857">
+          <caret line="56" column="48" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/boot/command.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/boot/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="46.214287">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/details/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.25">
+          <caret line="42" column="109" selection-start-line="42" selection-start-column="109" selection-end-line="42" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/goods/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1439456148500" expanded="true" signature="-1:-1" placeholder="select count..goods_stock..." />
+            <marker date="1439456148500" expanded="true" signature="-1:-1" placeholder="update goods..." />
+            <marker date="1439456148500" expanded="true" signature="-1:-1" placeholder="select count..goods_stock..." />
+            <marker date="1439456148500" expanded="true" signature="-1:-1" placeholder="update goods..." />
+            <marker date="1439456148500" expanded="true" signature="-1:-1" placeholder="select oi.sh..order_info..." />
+            <marker date="1439456148500" expanded="true" signature="-1:-1" placeholder="update goods..." />
+            <marker date="1439456148500" expanded="true" signature="-1:-1" placeholder="update order..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1439733412480" expanded="true" signature="-1:-1" placeholder="select id fr..taoyizhang_wbsd1415_resit_users..." />
+            <marker date="1439733412480" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_user_address..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/djbh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="238" column="23" selection-start-line="238" selection-start-column="23" selection-end-line="238" selection-end-column="23" />
+          <folding>
+            <marker date="1439741862439" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+            <marker date="1439741862439" expanded="true" signature="-1:-1" placeholder="select ${$co..." />
+            <marker date="1439741862439" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+            <marker date="1439741862439" expanded="true" signature="-1:-1" placeholder="select ${$co..." />
+            <marker date="1439741862439" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1439741862439" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#add_goods#0;n#models_order#0;n#!!top" expanded="false" />
+            <marker date="1439733413073" expanded="true" signature="-1:-1" placeholder="select id,go..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439733413073" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+            <marker date="1439733413073" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/common/slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15833333">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7652778">
+          <caret line="38" column="92" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
+          <folding>
+            <marker date="1439774768602" expanded="true" signature="-1:-1" placeholder="select gc.*,..goods_color..." />
+            <marker date="1439774768602" expanded="true" signature="-1:-1" placeholder="select gs.*,..goods_size..." />
+            <marker date="1439774768602" expanded="true" signature="-1:-1" placeholder="select * fro..taoyizhang_wbsd1415_resit_category..." />
+            <marker date="1439774768602" expanded="true" signature="-1:-1" placeholder="select * fro..taoyizhang_wbsd1415_resit_categoryaction..." />
+            <marker date="1439774768602" expanded="true" signature="-1:-1" placeholder="select id,ac..taoyizhang_wbsd1415_resit_categoryaction..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.475">
+          <caret line="27" column="92" selection-start-line="27" selection-start-column="92" selection-end-line="27" selection-end-column="92" />
+          <folding>
+            <marker date="1439774721567" expanded="true" signature="-1:-1" placeholder="select * fro..taoyizhang_wbsd1415_resit_category..." />
+            <marker date="1439774721567" expanded="true" signature="-1:-1" placeholder="select * fro..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439774721567" expanded="true" signature="-1:-1" placeholder="select count..goods..." />
+            <marker date="1439774721567" expanded="true" signature="-1:-1" placeholder="select g.* ,..goods..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/privilege/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6333333">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/boot/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0357144">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controllers/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34583333">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.178572">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+          <folding>
+            <element signature="n#add#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#edit#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#save#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#edit_save#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#delete#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#search#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#search_color#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#search_size#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#select_goods#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#select_goods_one#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#upload_img#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#get_file#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select * fro..taoyizhang_wbsd1415_resit_category..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select g.* f..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select gc.*,..goods_color..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select gs.*,..goods_size..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select id fr..color..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select id fr..size..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select id fr..color..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select id fr..size..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select count..order_goods..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select g.* f..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select * fro..taoyizhang_wbsd1415_resit_category..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select * fro..color..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select * fro..size..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select g.*,s..goods..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select g.*,s..goods..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select * fro..category..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select * fro..brand..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select c.nam..goods_color..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select s.id,..goods_size..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="select * fro..goods..." />
+            <marker date="1439774559441" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/common/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.928572">
+          <caret line="76" column="50" selection-start-line="76" selection-start-column="50" selection-end-line="76" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/privilege/modif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55138886">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="78" />
+          <folding>
+            <element signature="e#2233#2406#0#HTML" expanded="false" />
+            <element signature="e#2449#3677#0#HTML" expanded="false" />
+            <element signature="e#3711#3955#0#HTML" expanded="false" />
+            <element signature="e#3984#4096#0#HTML" expanded="false" />
+            <element signature="e#4117#4481#0#HTML" expanded="false" />
+            <element signature="e#4502#4711#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controllers/privilege.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44583333">
+          <caret line="111" column="32" selection-start-line="111" selection-start-column="32" selection-end-line="111" selection-end-column="32" />
+          <folding>
+            <marker date="1439780634144" expanded="true" signature="-1:-1" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439780634144" expanded="true" signature="-1:-1" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439780634144" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_admin_user..." />
+            <marker date="1439780634144" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_admin_user..." />
+            <marker date="1439780634144" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_admin_user..." />
+            <marker date="1439780634144" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/goods/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7142856">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/goods/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.785714">
+          <caret line="156" column="71" selection-start-line="156" selection-start-column="71" selection-end-line="156" selection-end-column="71" />
+          <folding>
+            <element signature="n#script#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/common/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.5">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/common/foot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.142858">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.64285713">
+          <caret line="29" column="93" selection-start-line="29" selection-start-column="93" selection-end-line="29" selection-end-column="93" />
+          <folding>
+            <element signature="n#save#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#info#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#getList#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#add_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#edit_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#remove_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#edit_base_info#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#edit_consignee_info#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#confirm#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#torange#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#send_list#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#send#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select o.*,s..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select id,na..taoyizhang_wbsd1415_resit_payments..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select id,na..taoyizhang_wbsd1415_resit_ships..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select og.*,..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select oi.*,..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select order..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select code ..taoyizhang_wbsd1415_resit_color..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select code ..taoyizhang_wbsd1415_resit_size..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select order..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select og.*,..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select s.id,..taoyizhang_wbsd1415_resit_goods_size..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select c.id,..taoyizhang_wbsd1415_resit_goods_color..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select order..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select oi.*,..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="select oi.*,..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+            <marker date="1439805397390" expanded="true" signature="-1:-1" placeholder="update taoyi..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/order/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7142856">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#4860#5651#0#HTML" expanded="false" />
+            <element signature="e#5681#5973#0#HTML" expanded="false" />
+            <element signature="e#6005#6290#0#HTML" expanded="false" />
+            <element signature="e#6322#6592#0#HTML" expanded="false" />
+            <element signature="e#6625#7085#0#HTML" expanded="false" />
+            <element signature="e#7117#7946#0#HTML" expanded="false" />
+            <element signature="e#7982#8608#0#HTML" expanded="false" />
+            <element signature="e#8647#9996#0#HTML" expanded="false" />
+            <element signature="e#10033#11036#0#HTML" expanded="false" />
+            <element signature="e#11083#11432#0#HTML" expanded="false" />
+            <element signature="e#11992#12346#0#HTML" expanded="false" />
+            <element signature="e#12384#12730#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/order/addold.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="46.214287">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#4217#5084#0#HTML" expanded="false" />
+            <element signature="e#5109#5615#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/goods/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.285714">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controllers/goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.821428">
+          <caret line="149" column="12" selection-start-line="149" selection-start-column="12" selection-end-line="149" selection-end-column="12" />
+          <folding>
+            <element signature="n#getList#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#add#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <element signature="n#edit#0;n#controllers_goods#0;n#!!top" expanded="false" />
+            <marker date="1439802792567" expanded="true" signature="1351:1416" placeholder="select count..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439802792567" expanded="true" signature="1480:1624" placeholder="select g.* ,..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439802792567" expanded="true" signature="1759:1853" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439802792567" expanded="true" signature="1942:2066" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439802792567" expanded="true" signature="2631:2725" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439802792567" expanded="true" signature="2814:2938" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439802792567" expanded="true" signature="3517:3677" placeholder="select gc.*,..taoyizhang_wbsd1415_resit_goods_color..." />
+            <marker date="1439802792567" expanded="true" signature="3737:3893" placeholder="select gs.*,..taoyizhang_wbsd1415_resit_goods_size..." />
+            <marker date="1439802792567" expanded="true" signature="3985:4079" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439802792567" expanded="true" signature="4168:4292" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439802792567" expanded="true" signature="6151:6232" placeholder="select count..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439802792567" expanded="true" signature="6639:6684" placeholder="select * fro..taoyizhang_wbsd1415_resit_color..." />
+            <marker date="1439802792567" expanded="true" signature="6988:7032" placeholder="select * fro..taoyizhang_wbsd1415_resit_size..." />
+            <marker date="1439802792567" expanded="true" signature="7552:7843" placeholder="select g.*,s..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439802792567" expanded="true" signature="8277:8568" placeholder="select g.*,s..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439802792567" expanded="true" signature="8919:8967" placeholder="select * fro..taoyizhang_wbsd1415_resit_category..." />
+            <marker date="1439802792567" expanded="true" signature="9033:9078" placeholder="select * fro..taoyizhang_wbsd1415_resit_brand..." />
+            <marker date="1439802792567" expanded="true" signature="9283:9448" placeholder="select c.nam..taoyizhang_wbsd1415_resit_goods_color..." />
+            <marker date="1439802792567" expanded="true" signature="9540:9699" placeholder="select s.id,..taoyizhang_wbsd1415_resit_goods_size..." />
+            <marker date="1439802792567" expanded="true" signature="9800:9862" placeholder="select * fro..taoyizhang_wbsd1415_resit_goods..." />
+            <marker date="1439802792567" expanded="true" signature="10781:10863" placeholder="update taoyi..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/order/edit_goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/goods/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.571428">
+          <caret line="129" column="80" selection-start-line="129" selection-start-column="80" selection-end-line="129" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controllers/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.642857">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding>
+            <element signature="n#add#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#remove#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="e#5121#5160#0#PHP" expanded="false" />
+            <element signature="n#getList#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="e#5247#5551#0#PHP" expanded="false" />
+            <element signature="n#add_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#edit_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#remove_goods#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <element signature="n#edit_base_info#0;n#controllers_order#0;n#!!top" expanded="false" />
+            <marker date="1439808279355" expanded="true" signature="1883:1977" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439808279355" expanded="true" signature="2090:2214" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439808279355" expanded="true" signature="3461:3681" placeholder="select o.*,s..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439808279355" expanded="true" signature="3767:3822" placeholder="select id,na..taoyizhang_wbsd1415_resit_payments..." />
+            <marker date="1439808279355" expanded="true" signature="3902:3953" placeholder="select id,na..taoyizhang_wbsd1415_resit_ships..." />
+            <marker date="1439808279355" expanded="true" signature="4015:4162" placeholder="select * fro..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439808279355" expanded="true" signature="4362:4456" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439808279355" expanded="true" signature="4575:4699" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439808279355" expanded="true" signature="4930:5001" placeholder="delete from ..." />
+            <marker date="1439808279355" expanded="true" signature="7415:7486" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439808279355" expanded="true" signature="7649:7741" placeholder="select oi.* ..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439808279355" expanded="true" signature="8078:8172" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439808279355" expanded="true" signature="8270:8394" placeholder="select id,ac..taoyizhang_wbsd1415_resit_acl_action..." />
+            <marker date="1439808279355" expanded="true" signature="8868:8948" placeholder="select order..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439808279355" expanded="true" signature="9451:9522" placeholder="select code ..taoyizhang_wbsd1415_resit_color..." />
+            <marker date="1439808279355" expanded="true" signature="9587:9656" placeholder="select code ..taoyizhang_wbsd1415_resit_size..." />
+            <marker date="1439808279355" expanded="true" signature="10912:11100" placeholder="update taoyi..." />
+            <marker date="1439808279355" expanded="true" signature="11205:11292" placeholder="select order..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439808279355" expanded="true" signature="11576:11741" placeholder="select og.*,..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439808279355" expanded="true" signature="11804:11941" placeholder="select s.id,..taoyizhang_wbsd1415_resit_goods_size..." />
+            <marker date="1439808279355" expanded="true" signature="12004:12145" placeholder="select c.id,..taoyizhang_wbsd1415_resit_goods_color..." />
+            <marker date="1439808279355" expanded="true" signature="12351:12426" placeholder="select order..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439808279355" expanded="true" signature="12442:12508" placeholder="delete from ..." />
+            <marker date="1439808279355" expanded="true" signature="12827:12935" placeholder="update taoyi..." />
+            <marker date="1439808279355" expanded="true" signature="13412:13665" placeholder="update taoyi..." />
+            <marker date="1439808279355" expanded="true" signature="13877:13964" placeholder="select count..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439808279355" expanded="true" signature="14410:14538" placeholder="update taoyi..." />
+            <marker date="1439808279355" expanded="true" signature="14594:14727" placeholder="update taoyi..." />
+            <marker date="1439808279355" expanded="true" signature="15471:15558" placeholder="select count..taoyizhang_wbsd1415_resit_order_goods..." />
+            <marker date="1439808279355" expanded="true" signature="20033:20114" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439808279355" expanded="true" signature="20280:20454" placeholder="select oi.*,..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439808279355" expanded="true" signature="23240:23311" placeholder="select count..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439808279355" expanded="true" signature="23373:23469" placeholder="select oi.* ..taoyizhang_wbsd1415_resit_order_info..." />
+            <marker date="1439808279355" expanded="true" signature="23869:23968" placeholder="update taoyi..." />
+            <marker date="1439808279355" expanded="true" signature="24017:24383" placeholder="update taoyi..." />
+            <marker date="1439808279355" expanded="true" signature="24729:24803" placeholder="update order..." />
+            <marker date="1439808279355" expanded="true" signature="24848:25214" placeholder="update taoyi..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/order/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.428572">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/order/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.464286">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/order/getList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7625">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
